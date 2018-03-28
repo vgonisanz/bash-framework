@@ -20,3 +20,9 @@ This repository contains some tools to ease create new scripts with bash.
 # Templates
 
 * `script`: Base template.
+
+# References
+
+* [man ncurses](http://invisible-island.net/ncurses/man/ncurses.3x.html)
+* [bashsimplecurses](https://github.com/metal3d/bashsimplecurses)
+* [Terminal control](http://www.termsys.demon.co.uk/vtansi.htm)
